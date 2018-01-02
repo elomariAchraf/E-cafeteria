@@ -2,12 +2,12 @@
 
 E-commerce application academic project detecated to my institute cafeteria 
 
-####web app that manage a cafeteria:
+#### web app that manage a cafeteria:
 
 Client interface to command the desired food, 
 Admin interface for the man in charge of the cafeteria to add and edit his commodities.
 
-######Used technologies and tools :
+###### Used technologies and tools :
 
 1. HTML/CSS,Bootstrape
 2. Servlet, JSP, JSTL,
@@ -15,7 +15,7 @@ Admin interface for the man in charge of the cafeteria to add and edit his commo
 4. JAX-RS, jersey,
 5. Glassfish, Eclipse. 
 
-######Screenshots 
+###### Screenshots 
 ![Alt text](1.png?raw=true " ")
 ![Alt text](2.png?raw=true " ")
 ![Alt text](3.png?raw=true " ")

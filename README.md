@@ -9,7 +9,7 @@ Admin interface for the man in charge of the cafeteria to add and edit his commo
 
 ###### Used technologies and tools :
 
-1. HTML/CSS,Bootstrape
+1. HTML/CSS,Bootstrap
 2. Servlet, JSP, JSTL,
 3. JPA, EclipseLink, Derby,
 4. JAX-RS, jersey,
